@@ -1,0 +1,16 @@
+  body {
+    background-color: azure;
+  }
+  hr {
+    border-style: dotted none none none;
+    border-color: #f0e5d8;
+    border-width: 5px;
+    width: 10%;
+  }
+  h1 {
+    color: #11698e;
+  }
+  h3 {
+    color: #11698e;
+  }
+  a:hover {color:green;}
